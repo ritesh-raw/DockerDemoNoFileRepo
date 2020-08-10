@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cz5Tub3yYGGFhXIS8tigKICFl1WG6jdAJfFMPBrpArNp81yriX0jyoK1XqQ4SREU0J2fpb6wGJ7D1F//oq6HUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ritesh\\Desktop\\Docker\\WenAppNoDockerFile\\WenAppNoDockerFile\\WenAppNoDockerFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritesh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
